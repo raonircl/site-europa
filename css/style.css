@@ -95,3 +95,54 @@ i {
     cursor: pointer;
     margin: 10px;
 }
+
+@media screen and (max-width: 768px) {
+    body {
+        background-position: center;
+    }
+
+    main {
+        max-width: 100%;
+        padding: 10px;
+    }
+
+    section {
+        padding: 30px;
+    }
+
+    .sloder {
+        margin: 20px;
+    }
+
+    button {
+        font-size: 16px;
+        padding: 8px;
+    }
+
+    h2 {
+        font-size: 24px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    h1 {
+        font-size: 24px;
+    }
+
+    section {
+        padding: 20px;
+    }
+
+    .slider {
+        margin: 10px;
+    }
+
+    button {
+        font-size: 14px;
+        padding: 6px;
+    }
+
+    p {
+        font-size: 14px;
+    }
+}
