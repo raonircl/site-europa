@@ -1,7 +1,9 @@
 body {
     font-family: Arial, sans-serif;
+    position: relative;
     margin: 0;
     padding: 0;
+    min-height: 100vh;
     background-color: #f4f4f4;
     background-image: url('../img/—Pngtree—travel\ around\ the\ world\ background_2253108.png');
     background-position: fixed;
@@ -108,10 +110,14 @@ p {
 }
 
 footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
     text-align: center;
     padding: 10px;
     background-color: #333;
     color: #fff;
+    margin-top: 250px;
 }
 
 i {
@@ -168,6 +174,16 @@ i {
 
     h2 {
         font-size: 24px;
+    }
+
+    footer {
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+        text-align: center;
+        padding: 10px;
+        background-color: #333;
+        color: #fff;
     }
 }
 
