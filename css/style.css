@@ -145,6 +145,7 @@ i {
 @media screen and (max-width: 768px) {
     body {
         background-position: center;
+        margin-bottom: 150px;
     }
 
     .navbar {
