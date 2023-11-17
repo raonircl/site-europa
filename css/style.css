@@ -25,11 +25,13 @@ header {
 
 .nav-item :hover {
     background-color: #b6b2b2;
+    height: auto;
     border-radius: 5px;
 }
 
 .navbar-brand {
     margin: 0;
+    padding: 15px;
 }
 
 .navbar {
@@ -125,8 +127,8 @@ i {
         background-position: center;
     }
 
-    .navbar-nav {
-        margin-top: 10px;
+    .nav-link {
+
     }
 
     .navbar {
@@ -134,12 +136,14 @@ i {
         height: auto;
     }
 
-    .navbar-brand {
-        margin: 10px;
+    .nav-link {
+        width: 150px;
     }
 
-    .navbar-toggler-icon {
-        margin-left: auto;
+    .nav-item {
+        justify-content: center;
+        align-items: center;
+        display: flex;
     }
 
     main {
@@ -170,7 +174,7 @@ i {
         font-size: 24px;
     }
 
-    .navbar-nav {
+    /* .navbar-nav {
         margin-top: 10px;
     }
 
@@ -185,7 +189,7 @@ i {
 
     .navbar-toggler-icon {
         margin-left: auto;
-    }
+    } */
 
     section {
         padding: 20px;
