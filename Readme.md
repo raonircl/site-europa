@@ -1,12 +1,15 @@
 # Descubra a Europa
 
-Bem-vindo ao projeto "Descubra a Europa - Destinos Turísticos Inesquecíveis". Este projeto apresenta informações sobre alguns dos destinos turísticos mais incríveis na Europa, destacando suas belezas e atrações.
+Bem-vindo ao projeto "Descubra a Europa - Destinos Turísticos Inesquecíveis". Este projeto apresenta informações sobre alguns dos destinos turísticos mais incríveis na Europa, destacando suas belezas e atrações, mostra hoteis para hospedagens e compra de passagens. 
 
 ## Link
 https://descubra-a-europa.netlify.app/
 ## Imagens
-![Alt text](image.png)
+![Alt text](image-1.png)
+![Alt text](image-3.png)
 ![Alt text](image-2.png)
+![Alt text](image-4.png)
+![Alt text](image-5.png)
 ## Tecnologias Utilizadas
 
 - HTML5
