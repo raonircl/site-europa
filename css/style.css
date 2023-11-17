@@ -117,7 +117,7 @@ footer {
     padding: 10px;
     background-color: #333;
     color: #fff;
-    margin-top: 250px;
+    margin-top: 200px;
 }
 
 i {
@@ -132,6 +132,14 @@ i {
     text-align: left;
     text-indent: 1%;
     margin: 15px;
+}
+
+#btn-pass {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    border-radius: 5px;
 }
 
 @media screen and (max-width: 768px) {
