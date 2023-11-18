@@ -5,9 +5,10 @@ Bem-vindo ao projeto "Descubra a Europa - Destinos Turísticos Inesquecíveis". 
 ## Link
 https://descubra-a-europa.netlify.app/
 ## Imagens
+![Alt text](image.png)
 ![Alt text](image-1.png)
-![Alt text](image-3.png)
 ![Alt text](image-2.png)
+![Alt text](image-3.png)
 ![Alt text](image-4.png)
 ![Alt text](image-5.png)
 ## Tecnologias Utilizadas
@@ -16,6 +17,7 @@ https://descubra-a-europa.netlify.app/
 - CSS3
 - JavaScript
 - jQuery
+- Bootstrap
 
 ## Conteúdo
 
