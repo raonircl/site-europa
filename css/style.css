@@ -1,5 +1,5 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, sans-serif;
     position: relative;
     margin: 0;
     padding: 0;
@@ -34,7 +34,6 @@ header {
 
 .navbar-brand {
     margin: 0;
-    padding: 15px;
 }
 
 .navbar {
@@ -190,6 +189,10 @@ i {
         margin-bottom: 150px;
     }
 
+    h1, h2, h3, h4 {
+        font-size: 20px;
+    }
+
     .navbar {
         margin: auto;
         height: auto;
@@ -240,11 +243,16 @@ i {
         background-color: #333;
         color: #fff;
     }
+
+    iframe {
+        width: 300px;
+        height: auto;
+    }
 }
 
 @media screen and (max-width: 480px) {
-    h1 {
-        font-size: 24px;
+    h1, h2, h3, h4 {
+        font-size: 20px;
     }
 
     section {
