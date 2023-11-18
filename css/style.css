@@ -157,7 +157,7 @@ i {
     object-fit: cover;
 }
 
-.reserve-btn {
+.reserve-btn, #btn-pass {
     position: relative;
     bottom: 0;
     font-size: 16px;
@@ -169,18 +169,23 @@ i {
     cursor: pointer;
 }
 
+#destination-pass {
+    position: relative;
+    font-size: 16px;
+    width: 120px;
+    height: 44px;
+    bottom: 0;
+    border: none;
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+}
+
 .hostel {
     padding: 1px;
     margin: 25px;
     height: auto;
-}
-
-#btn-pass {
-    justify-content: center;
-    display: flex;
-    align-items: center;
-    text-align: center;
-    border-radius: 5px;
 }
 
 @media screen and (max-width: 768px) {
